@@ -1,5 +1,7 @@
 # EOR Tagger
 
+<img width="1089" height="769" alt="main screen" src="https://github.com/user-attachments/assets/6bed2e29-a60b-4087-8ff1-7217d393d5fc" />
+
 EOR Tagger is a lightweight, open-source audio metadata editor and analyzer. Built for speed and simplicity as a single-file Python script, it allows you to easily edit ID3/Vorbis tags, apply metadata templates, and batch-process tracks.
 
 Unlike standard tagging tools, EOR Tagger includes built-in algorithmic and Natural Language Processing (NLP) tools to automatically detect BPM, musical key, track energy, and lyrical sentiment.
@@ -8,6 +10,9 @@ Unlike standard tagging tools, EOR Tagger includes built-in algorithmic and Natu
 
 * Batch Tagging: Select multiple tracks to apply metadata (Artist, Album, Genre, etc.) simultaneously.
 * Template Stamping: Create, save, and apply custom metadata templates for regular releases.
+
+<img width="543" height="674" alt="template modal" src="https://github.com/user-attachments/assets/5849d607-9a36-42b4-a168-707b9017ef64" />
+
 * Cover Art Management: Embed or replace cover art (JPG/PNG) directly into your audio files.
 * Audio Analytics: Automatically detect BPM, musical key, and energy/character using librosa.
 * Lyrical Analysis: Extract keywords, detect language, and analyze the emotional mood of lyrics using vaderSentiment, spaCy, and rake_nltk.
